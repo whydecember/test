@@ -19,3 +19,5 @@ print(df.tail(3))
 # 使用 seaborn 根据目标类别着色绘制散点图矩阵
 sns.pairplot(df, hue='target')
 plt.show()
+
+print('hello world')
